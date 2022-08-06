@@ -1,3 +1,3 @@
-# goit-markup-hw-06
+# goit-markup-hw-07
 
-GoIT DZ 6
+GoIT DZ 7
